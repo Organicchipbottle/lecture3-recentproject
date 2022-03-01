@@ -1,3 +1,13 @@
 .jumbotron{
   height:500px;
 }
+#water{
+  border-style:double;
+  border-width:9px;
+  width:600px;
+  color:black;
+  background-color:white;
+}
+.fire{
+  color:white;
+}
