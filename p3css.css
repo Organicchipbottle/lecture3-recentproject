@@ -1,1 +1,25 @@
-
+.jumbotron{
+  height:600px;
+}
+#water{
+  border-style:double;
+  border-width:9px;
+  width:600px;
+  color:White;
+  background-color:black;
+  opacity:0.8;
+}
+.fire{
+  color:white;
+}
+.tall{
+  background-color:black;
+  height:200px;
+  color:white;
+}
+.howtall{
+  height:250px;
+}
+.howtalls{
+  height:260px;
+}
